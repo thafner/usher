@@ -35,4 +35,5 @@ php_version_config_paths:
   - .platform.app.yaml
   - .github/workflows/ci.yml
   - README.md
+  - .lando.yml
 twig_lint_enable: true
